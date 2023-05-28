@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MedSysList
 {
-    internal class MyList<T>
+    public class MyList<T>
     {
         private List<T> _list;
 
@@ -17,6 +17,8 @@ namespace MedSysList
         }
         public MyList(T value)
         {
+            if (value == null) { throw new ArgumentNullException("value"); }
+
             _list = new List<T>()
             {
                 value
@@ -24,12 +26,16 @@ namespace MedSysList
         }
         public MyList(List<T> list)
         {
+            if(list == null) { throw new ArgumentNullException("list"); }
+
             _list = list;
         }
 
         //Delete
         public void Delete(T value)
         {
+            if (value == null) { throw new ArgumentNullException("value"); }
+
             if (_list != null)
             {
                 _list.Remove(value);
@@ -39,6 +45,8 @@ namespace MedSysList
         //Add
         public void Add(T value)
         {
+            if (value == null) { throw new ArgumentNullException("value"); }
+
             _list.Add(value);
         }
 
