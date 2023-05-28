@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedSysList", "MedSysList\MedSysList.csproj", "{8669D302-FFC1-48DD-AE04-05EE19706588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyListTests", "MyListTests\MyListTests.csproj", "{84EDF7BB-A350-4E71-B63B-3A6DA9C0DFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8669D302-FFC1-48DD-AE04-05EE19706588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8669D302-FFC1-48DD-AE04-05EE19706588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8669D302-FFC1-48DD-AE04-05EE19706588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8669D302-FFC1-48DD-AE04-05EE19706588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EDF7BB-A350-4E71-B63B-3A6DA9C0DFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EDF7BB-A350-4E71-B63B-3A6DA9C0DFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EDF7BB-A350-4E71-B63B-3A6DA9C0DFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EDF7BB-A350-4E71-B63B-3A6DA9C0DFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A38A47-06B0-48DB-98B9-45245A5F3BD8}
+	EndGlobalSection
+EndGlobal

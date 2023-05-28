@@ -1,0 +1,15 @@
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\bin\Debug\net6.0\MedSysList.exe
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\bin\Debug\net6.0\MedSysList.deps.json
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\bin\Debug\net6.0\MedSysList.runtimeconfig.json
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\bin\Debug\net6.0\MedSysList.dll
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\bin\Debug\net6.0\MedSysList.pdb
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.csproj.AssemblyReference.cache
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.AssemblyInfoInputs.cache
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.AssemblyInfo.cs
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.csproj.CoreCompileInputs.cache
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.dll
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\refint\MedSysList.dll
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.pdb
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\MedSysList.genruntimeconfig.cache
+C:\Users\mlacy\source\repos\MedSys\MedSysCodingPractice\MedSysList\MedSysList\obj\Debug\net6.0\ref\MedSysList.dll
