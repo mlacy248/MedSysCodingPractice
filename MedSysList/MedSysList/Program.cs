@@ -1,21 +1,34 @@
-﻿namespace Code
+﻿using MedSysList;
+
+namespace Code
 {
     public class mainClass
     {
         static void Main()
         {
-            //Create test setup- List input
-
-            Console.WriteLine("Above Below Tests...");
-
-            int[] testList1 = new int[]
-            {
-                1,5,4,9,11,3,6,12,20,2
-            };
 
 
+            var myList = new MyList<int>
+            (
+                new List<int>()
+                {
+                    1, 2, 3, 4, 5, 6
+                }
+            );
 
-            
+            myList.Add ( 7 );
+
+            myList.Delete ( 3 );
+
+            var val = myList.ReadValueAtIndex ( 0 );
+
+            var readList = myList.ReadList();
+
+            foreach ( var item in readList ) 
+            { 
+                Console.WriteLine ( item );
+            }
+
 
         }
     }
